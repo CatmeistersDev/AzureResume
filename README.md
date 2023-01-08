@@ -1,4 +1,5 @@
 # AzureResume
-My own Azure resume 
+My own Azure resume
+
 <b>Hello Marc</b>
 
