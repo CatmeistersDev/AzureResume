@@ -9,7 +9,7 @@ const getVisitCount = () => {
     fetch(functionApi).then(response => {
         return response.json()
     }).then(Response =>{
-        console.lo("Website called function API.");
+        console.log("Website called function API.");
         count = response.count;
         document.getElementById("counter").innerText = count; 
     }).catch(function(error){
