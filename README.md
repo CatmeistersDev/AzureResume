@@ -1,6 +1,9 @@
 # AzureResume
-My own Azure resume
+My very own Azure resume
 
 <b>Hello Marc</b>
 
-Created the js code for the counter on resume. Deleted all Azure resources, recreated the cosmosdb account and left it at that.
+Created the js code for the counter on resume. 
+Deleted all Azure resources, recreated the cosmosdb account and left it at that.
+
+Updated resume info to match final draft
